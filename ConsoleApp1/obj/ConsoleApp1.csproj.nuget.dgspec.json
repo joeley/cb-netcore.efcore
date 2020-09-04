@@ -1,0 +1,256 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\ConsoleApp1\\ConsoleApp1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\Asp.NetCore.DBFactory\\Asp.NetCore.DBFactory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\Asp.NetCore.DBFactory\\Asp.NetCore.DBFactory.csproj",
+        "projectName": "Asp.NetCore.DBFactory",
+        "projectPath": "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\Asp.NetCore.DBFactory\\Asp.NetCore.DBFactory.csproj",
+        "packagesPath": "C:\\Users\\first\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\Asp.NetCore.DBFactory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\first\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\Asp.NetCore.Model\\Asp.NetCore.Model.csproj": {
+                "projectPath": "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\Asp.NetCore.Model\\Asp.NetCore.Model.csproj"
+              },
+              "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\Asp.NetCore.Model\\Asp.NetCore.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\Asp.NetCore.Model\\Asp.NetCore.Model.csproj",
+        "projectName": "Asp.NetCore.Model",
+        "projectPath": "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\Asp.NetCore.Model\\Asp.NetCore.Model.csproj",
+        "packagesPath": "C:\\Users\\first\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\Asp.NetCore.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\first\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\ConsoleApp1\\ConsoleApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\first\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\ConsoleApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\first\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\Asp.NetCore.DBFactory\\Asp.NetCore.DBFactory.csproj": {
+                "projectPath": "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\Asp.NetCore.DBFactory\\Asp.NetCore.DBFactory.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\first\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\first\\Desktop\\EFcore\\Asp.NetCore.EFCore\\Asp.NetCore.EFCore\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\first\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.9.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

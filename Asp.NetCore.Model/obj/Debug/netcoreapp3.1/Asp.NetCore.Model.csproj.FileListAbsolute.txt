@@ -1,0 +1,27 @@
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.deps.json
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.dll
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.pdb
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\obj\Debug\netcoreapp3.1\Asp.NetCore.Model.AssemblyInfoInputs.cache
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\obj\Debug\netcoreapp3.1\Asp.NetCore.Model.AssemblyInfo.cs
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\obj\Debug\netcoreapp3.1\Asp.NetCore.Model.csproj.CoreCompileInputs.cache
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\obj\Debug\netcoreapp3.1\Asp.NetCore.Model.dll
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\obj\Debug\netcoreapp3.1\Asp.NetCore.Model.pdb
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\obj\Debug\netcoreapp3.1\Asp.NetCore.Model.csprojAssemblyReference.cache
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.deps.json
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.dll
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.pdb
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\obj\Debug\netcoreapp3.1\Asp.NetCore.Model.csprojAssemblyReference.cache
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\obj\Debug\netcoreapp3.1\Asp.NetCore.Model.AssemblyInfoInputs.cache
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\obj\Debug\netcoreapp3.1\Asp.NetCore.Model.AssemblyInfo.cs
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\obj\Debug\netcoreapp3.1\Asp.NetCore.Model.csproj.CoreCompileInputs.cache
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\obj\Debug\netcoreapp3.1\Asp.NetCore.Model.dll
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\obj\Debug\netcoreapp3.1\Asp.NetCore.Model.pdb
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.deps.json
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.dll
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.pdb
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\obj\Debug\netcoreapp3.1\Asp.NetCore.Model.csprojAssemblyReference.cache
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\obj\Debug\netcoreapp3.1\Asp.NetCore.Model.AssemblyInfoInputs.cache
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\obj\Debug\netcoreapp3.1\Asp.NetCore.Model.AssemblyInfo.cs
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\obj\Debug\netcoreapp3.1\Asp.NetCore.Model.csproj.CoreCompileInputs.cache
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\obj\Debug\netcoreapp3.1\Asp.NetCore.Model.dll
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Model\obj\Debug\netcoreapp3.1\Asp.NetCore.Model.pdb

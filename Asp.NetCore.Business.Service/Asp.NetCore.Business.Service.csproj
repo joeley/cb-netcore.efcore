@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Asp.NetCore.Business.Interface\Asp.NetCore.Business.Interface.csproj" />
+    <ProjectReference Include="..\Asp.NetCore.Dal\Asp.NetCore.Dal.csproj" />
+    <ProjectReference Include="..\Asp.NetCore.DBFactory\Asp.NetCore.DBFactory.csproj" />
+    <ProjectReference Include="..\Asp.NetCore.IDal\Asp.NetCore.IDal.csproj" />
+  </ItemGroup>
+
+</Project>

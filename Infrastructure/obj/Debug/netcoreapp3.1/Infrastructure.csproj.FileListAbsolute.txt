@@ -1,0 +1,45 @@
+D:\MyProjects\C#\我的开发\asp.net core\项目\MeteringMVCCore\MeteringMVCCore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\MyProjects\C#\我的开发\asp.net core\项目\MeteringMVCCore\MeteringMVCCore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\MyProjects\C#\我的开发\asp.net core\项目\MeteringMVCCore\MeteringMVCCore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\MyProjects\C#\我的开发\asp.net core\项目\MeteringMVCCore\MeteringMVCCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\MyProjects\C#\我的开发\asp.net core\项目\MeteringMVCCore\MeteringMVCCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\MyProjects\C#\我的开发\asp.net core\项目\MeteringMVCCore\MeteringMVCCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\MyProjects\C#\我的开发\asp.net core\项目\MeteringMVCCore\MeteringMVCCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\MyProjects\C#\我的开发\asp.net core\项目\MeteringMVCCore\MeteringMVCCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\MyProjects\C#\我的开发\asp.net core\项目\MeteringMVCCore\MeteringMVCCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+D:\MyProject\C#\我的开发\asp.net core\项目\MeteringMVCCore\MeteringMVCCore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\MyProject\C#\我的开发\asp.net core\项目\MeteringMVCCore\MeteringMVCCore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\MyProject\C#\我的开发\asp.net core\项目\MeteringMVCCore\MeteringMVCCore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\MyProject\C#\我的开发\asp.net core\项目\MeteringMVCCore\MeteringMVCCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\MyProject\C#\我的开发\asp.net core\项目\MeteringMVCCore\MeteringMVCCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\MyProject\C#\我的开发\asp.net core\项目\MeteringMVCCore\MeteringMVCCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\MyProject\C#\我的开发\asp.net core\项目\MeteringMVCCore\MeteringMVCCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\MyProject\C#\我的开发\asp.net core\项目\MeteringMVCCore\MeteringMVCCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\MyProject\C#\我的开发\asp.net core\项目\MeteringMVCCore\MeteringMVCCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb

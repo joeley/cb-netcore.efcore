@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Asp.NetCore.IDal/1.0.0": {
+        "dependencies": {
+          "Asp.NetCore.Model": "1.0.0"
+        },
+        "runtime": {
+          "Asp.NetCore.IDal.dll": {}
+        }
+      },
+      "Asp.NetCore.Model/1.0.0": {
+        "runtime": {
+          "Asp.NetCore.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Asp.NetCore.IDal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Asp.NetCore.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

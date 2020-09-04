@@ -1,0 +1,36 @@
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\bin\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.deps.json
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\bin\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.dll
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\bin\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.pdb
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.dll
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.pdb
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.csprojAssemblyReference.cache
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.AssemblyInfoInputs.cache
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.AssemblyInfo.cs
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.csproj.CoreCompileInputs.cache
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.csproj.CopyComplete
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.dll
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.pdb
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\bin\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.deps.json
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\bin\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.dll
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\bin\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.pdb
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.dll
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.pdb
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.csprojAssemblyReference.cache
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.AssemblyInfoInputs.cache
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.AssemblyInfo.cs
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.csproj.CoreCompileInputs.cache
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.csproj.CopyComplete
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.dll
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.pdb
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\bin\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.deps.json
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\bin\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.dll
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\bin\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.pdb
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.dll
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.pdb
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.csprojAssemblyReference.cache
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.AssemblyInfoInputs.cache
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.AssemblyInfo.cs
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.csproj.CoreCompileInputs.cache
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.csproj.CopyComplete
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.dll
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Business.Interface\obj\Debug\netcoreapp3.1\Asp.NetCore.Business.Interface.pdb

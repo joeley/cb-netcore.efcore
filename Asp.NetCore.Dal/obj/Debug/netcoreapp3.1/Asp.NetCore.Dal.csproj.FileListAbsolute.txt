@@ -1,0 +1,54 @@
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.Dal.deps.json
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.Dal.dll
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.Dal.pdb
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.DBFactory.dll
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.IDal.dll
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.dll
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.DBFactory.pdb
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.IDal.pdb
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.pdb
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.csprojAssemblyReference.cache
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.AssemblyInfoInputs.cache
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.AssemblyInfo.cs
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.csproj.CoreCompileInputs.cache
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.csproj.CopyComplete
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.dll
+D:\MyProject\C#\我的开发\asp.net core\项目\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.pdb
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.csprojAssemblyReference.cache
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.AssemblyInfoInputs.cache
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.AssemblyInfo.cs
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.csproj.CoreCompileInputs.cache
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.dll
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.pdb
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.Dal.deps.json
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.Dal.dll
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.Dal.pdb
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.DBFactory.dll
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.IDal.dll
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.dll
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.DBFactory.pdb
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.IDal.pdb
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.pdb
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\first\Desktop\新建文件夹 (4)\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.csproj.CopyComplete
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.Dal.deps.json
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.Dal.dll
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.Dal.pdb
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.DBFactory.dll
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.IDal.dll
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.dll
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.DBFactory.pdb
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.IDal.pdb
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Asp.NetCore.Model.pdb
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.csprojAssemblyReference.cache
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.AssemblyInfoInputs.cache
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.AssemblyInfo.cs
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.csproj.CoreCompileInputs.cache
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.csproj.CopyComplete
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.dll
+C:\Users\first\Desktop\EFcore\Asp.NetCore.EFCore\Asp.NetCore.EFCore\Asp.NetCore.Dal\obj\Debug\netcoreapp3.1\Asp.NetCore.Dal.pdb

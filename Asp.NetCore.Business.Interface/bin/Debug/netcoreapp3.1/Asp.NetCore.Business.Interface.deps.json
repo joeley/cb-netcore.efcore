@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Asp.NetCore.Business.Interface/1.0.0": {
+        "dependencies": {
+          "Asp.NetCore.Model": "1.0.0"
+        },
+        "runtime": {
+          "Asp.NetCore.Business.Interface.dll": {}
+        }
+      },
+      "Asp.NetCore.Model/1.0.0": {
+        "runtime": {
+          "Asp.NetCore.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Asp.NetCore.Business.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Asp.NetCore.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

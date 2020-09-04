@@ -1,0 +1,286 @@
+﻿@{
+    Layout = null;
+}
+
+<section role="main" class="content-body">
+    <header class="page-header">
+        <h2>派车报表</h2>
+
+        <div class="right-wrapper pull-right">
+            <ol class="breadcrumbs">
+                <li>
+                    <a href="/Home/Index">
+                        <i class="fa fa-home"></i>
+                    </a>
+                </li>
+                <li><span>派车管理</span></li>
+                <li><span>派车报表</span></li>
+            </ol>
+            <!--如果想加上点击右侧弹出时间窗体则加上 data-open="sidebar-right"-->
+            <a class="sidebar-right-toggle"><i class="fa fa-chevron-left"></i></a>
+        </div>
+    </header>
+    <!-- start: page -->
+    <section class="panel">
+        <header class="panel-heading">
+            <div class="panel-actions">
+                <a href="#" class="fa fa-caret-down"></a>
+                <a href="#" class="fa fa-times"></a>
+            </div>
+
+            <h2 class="panel-title">派车报表</h2>
+        </header>
+        <div class="panel-body">
+            <form class="form-horizontal form-bordered">
+                <div class="panel-body">
+                    <div class="form-group">
+                        <label class="col-sm-1">车牌号</label>
+                        <div class="col-sm-2">
+                            <input type="text" id="SendCarReport_TruckCode" class="form-control" title="请输入车牌号" placeholder="请输入车牌号" required />
+                        </div>
+                        <label class="col-sm-1">司机姓名</label>
+                        <div class="col-sm-2">
+                            <input type="text" id="SendCarReport_DriverName" class="form-control" title="请输入司机姓名" placeholder="请输入司机姓名" required />
+                        </div>
+                        <label class="col-sm-1">联系方式</label>
+                        <div class="col-sm-2">
+                            <input type="text" id="SendCarReport_PhoneNumber" class="form-control" title="请输入联系方式" placeholder="请输入联系方式" required />
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-1">身份证</label>
+                        <div class="col-sm-2">
+                            <input type="text" id="SendCarReport_IDNumber" class="form-control" title="请输入身份证" placeholder="请输入身份证" required />
+                        </div>
+                        <label class="col-sm-1">物料</label>
+                        <div class="col-sm-2">
+                            <select id="SendCarReport_MaterialSelect" data-plugin-selectTwo class="form-control populate placeholder">
+                                @*<option value="">请选择</option>*@
+                                @Html.Raw((ViewData["Material_Select"].ToString().Trim()));
+                            </select>
+                        </div>
+                        <label class="col-sm-1">发货单位</label>
+                        <div class="col-sm-2">
+                            <select id="SendCarReport_SendGroupSelect" data-plugin-selectTwo class="form-control populate placeholder">
+                                @*<option value="">请选择</option>*@
+                                @Html.Raw((ViewData["SendGroup_Select"].ToString().Trim()));
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-1">收货单位</label>
+                        <div class="col-sm-2">
+                            <select id="SendCarReport_ReceiveGroupSelect" data-plugin-selectTwo class="form-control populate placeholder">
+                                @*<option value="">请选择</option>*@
+                                @Html.Raw((ViewData["ReceiveGroup_Select"].ToString().Trim()));
+                            </select>
+                        </div>
+                        <label class="col-sm-1">合同</label>
+                        <div class="col-sm-2">
+                            <select id="SendCarReport_ContractGroupSelect" data-plugin-selectTwo class="form-control populate placeholder">
+                                @*<option value="">请选择</option>*@
+                                @Html.Raw((ViewData["Contract_Select"].ToString().Trim()));
+                            </select>
+                        </div>
+                        <label class="col-sm-1">业务类型</label>
+                        <div class="col-sm-2">
+                            <select id="SendCarReport_WeightType" data-plugin-selectTwo class="form-control populate placeholder">
+                                <option value="">请选择</option>
+                                <option value="Buy">采购</option>
+                                <option value="Sell">销售</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-md-1">派车日期</label>
+                        <div class="col-md-4">
+                            <div class="input-daterange input-group" data-plugin-datepicker>
+                                <span class="input-group-addon">
+                                    <i class="fa fa-calendar"></i>
+                                </span>
+                                <input id="dateTimeStart" type="text" class="form-control" name="start">
+                                <span class="input-group-addon">to</span>
+                                <input id="dateTimeEnd" type="text" class="form-control" name="end">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-2">
+                            <button type="button" class="form-control mb-xs mt-xs mr-xs btn btn-primary" onclick="QuerySendCarView()">查询</button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+
+            <!--查询table start-->
+            <table class="table table-bordered table-striped table-hover mb-none" id="datatable-default">
+                <thead>
+                    <tr>
+                        <th>派车ID</th>
+                        <th>车牌号</th>
+                        <th>司机姓名</th>
+                        <th>联系方式</th>
+                        <th>身份证</th>
+                        <th>合同号</th>
+                        <th>合同名称</th>
+                        <th>物料</th>
+                        <th>发货单位</th>
+                        <th>收货单位</th>
+                        <th>业务类型</th>
+                        <th>派车ID</th>
+                        <th>车牌号</th>
+                        <th>司机姓名</th>
+                        <th>联系方式</th>
+                        <th>身份证</th>
+                        <th>合同号</th>
+                        <th>合同名称</th>
+                        <th>物料</th>
+                        <th>发货单位</th>
+                        <th>收货单位</th>
+                        <th>业务类型</th>
+                        <th>业务类型</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+            <!--查询table end-->
+        </div>
+    </section>
+    <!-- end: page -->
+</section>
+
+
+
+<!-- Specific Page Vendor -->
+<script src="/assets/vendor/select2/select2.js"></script>
+<script src="/assets/vendor/jquery-datatables/media/js/jquery.dataTables.js"></script>
+<script src="/assets/vendor/jquery-datatables-bs3/assets/js/datatables.js"></script>
+<!-- Specific Page Vendor -->
+<script src="/assets/vendor/jquery-ui/js/jquery-ui-1.10.4.custom.js"></script>
+<script src="/assets/vendor/jquery-ui-touch-punch/jquery.ui.touch-punch.js"></script>
+<script src="/assets/vendor/bootstrap-multiselect/bootstrap-multiselect.js"></script>
+<script src="/assets/vendor/jquery-maskedinput/jquery.maskedinput.js"></script>
+<script src="/assets/vendor/bootstrap-tagsinput/bootstrap-tagsinput.js"></script>
+<script src="/assets/vendor/bootstrap-colorpicker/js/bootstrap-colorpicker.js"></script>
+<script src="/assets/vendor/bootstrap-timepicker/js/bootstrap-timepicker.js"></script>
+<script src="/assets/vendor/fuelux/js/spinner.js"></script>
+<script src="/assets/vendor/dropzone/dropzone.js"></script>
+<script src="/assets/vendor/bootstrap-markdown/js/markdown.js"></script>
+<script src="/assets/vendor/bootstrap-markdown/js/to-markdown.js"></script>
+<script src="/assets/vendor/bootstrap-markdown/js/bootstrap-markdown.js"></script>
+<script src="/assets/vendor/codemirror/lib/codemirror.js"></script>
+<script src="/assets/vendor/codemirror/addon/selection/active-line.js"></script>
+<script src="/assets/vendor/codemirror/addon/edit/matchbrackets.js"></script>
+<script src="/assets/vendor/codemirror/mode/javascript/javascript.js"></script>
+<script src="/assets/vendor/codemirror/mode/xml/xml.js"></script>
+<script src="/assets/vendor/codemirror/mode/htmlmixed/htmlmixed.js"></script>
+<script src="/assets/vendor/codemirror/mode/css/css.js"></script>
+<script src="/assets/vendor/summernote/summernote.js"></script>
+<script src="/assets/vendor/bootstrap-maxlength/bootstrap-maxlength.js"></script>
+<script src="/assets/vendor/ios7-switch/ios7-switch.js"></script>
+
+<!-- pnotify插件 弹窗-->
+<script src="/assets/vendor/pnotify/pnotify.custom.js"></script>
+
+
+
+<!-- Theme Base, Components and Settings 用ajax 刷新页面会导致脚本脚本冲突 -->
+<script src="/assets/javascripts/theme.js"></script>
+
+<!-- Theme Custom -->
+@*<script src="/assets/javascripts/theme.custom.js"></script>*@
+
+<!-- Theme Initialization Files -->
+<script src="/assets/javascripts/theme.init.js"></script>
+
+<!-- Examples -->
+<script src="/assets/javascripts/tables/examples.datatables.default.js"></script>
+<script src="/assets/javascripts/tables/examples.datatables.row.with.details.js"></script>
+<script src="/assets/javascripts/tables/examples.datatables.tabletools.js"></script>
+
+<!-- Examples 弹窗代码的引用，由于需要弹窗的地方很多需要与后台交互，所以在每个页面都加上了一个弹窗代码用于数据的增删改交互 -->
+<script src="/assets/javascripts/ui-elements/examples.modals.js"></script>
+<!-- advanced form 下拉框 -->
+<script src="/assets/javascripts/forms/examples.advanced.form.js"></script>
+<!-- notificatioin-->
+<script src="/assets/javascripts/ui-elements/examples.notifications.js"></script>
+
+<!--自定义的弹窗-->
+<script src="/js/notifycations/Pnotifycations.js"></script>
+
+<script>
+
+    //ready
+    $(document).ready(function () {
+        //此处用ajax为select控件赋值。考虑使用action，return View的时候赋值，能保证页面刷新出来的完整性
+        QuerySendCarView();
+    });
+
+    //查询
+    function QuerySendCarView() {
+        var url = "/SendCar/QuerySendCarView";
+        var truckCode = document.getElementById("SendCarReport_TruckCode").value;
+        var driverName = document.getElementById("SendCarReport_DriverName").value;
+        var phoneNumber = document.getElementById("SendCarReport_PhoneNumber").value;
+        var IDNumber = document.getElementById("SendCarReport_IDNumber").value;
+
+        var SendTimeStart = document.getElementById("dateTimeStart").value;
+        var SendTimeEnd = document.getElementById("dateTimeEnd").value;
+
+        var SendGroup_Id = $("#SendCarReport_SendGroupSelect").find("option:selected").val();
+        var ReceiveGroup_Id = $("#SendCarReport_ReceiveGroupSelect").find("option:selected").val();
+        var Material_Id = $("#SendCarReport_MaterialSelect").find("option:selected").val();
+        var Contract_Id = $("#SendCarReport_ContractGroupSelect").find("option:selected").val();
+        var WeighType = $("#SendCarReport_WeightType").find("option:selected").val();
+
+        $.ajax({
+            type: 'post',
+            url: url,
+            data: {
+                TruckCode: truckCode,
+                DriverName: driverName,
+                DriverPhone: phoneNumber,
+                DriverIdNum: IDNumber,
+                ReceiveGroup_Id: ReceiveGroup_Id,
+                SendGroup_Id: SendGroup_Id,
+                Material_Id: Material_Id,
+                Contract_Id: Contract_Id,
+                WeighType: WeighType,
+                SendTimeStart: SendTimeStart,
+                SendTimeEnd: SendTimeEnd
+            },
+            dataType: 'json',
+            success: function (result) {
+                //为了保证datatable样式在重新加载数据后不变性，在加载新的数据之前，先将table清空还原，在加载完成后重新初始化。
+                var datatable = $('#datatable-default').dataTable();
+                datatable.fnClearTable(); //清空一下table
+                datatable.fnDestroy(); //还原初始化了的datatable
+                var tablecontent = "<thead><tr><th>派车ID</th><th>车牌号</th><th>司机姓名</th><th>联系方式</th><th>身份证</th><th>合同号</th><th>合同名称</th><th>物料</th><th>发货单位</th><th>收货单位</th><th>业务类型</th></tr></thead><tbody>";
+                var body = "";
+                for (var i = 0; i < result.length; i++) {
+                    body += "<tr class=\"gradeX\">";
+                    body += "<td>" + result[i]["SendCar_Id"] + "</td>";
+                    body += "<td>" + result[i]["TruckCode"] + "</td>";
+                    body += "<td>" + result[i]["DriverName"] + "</td>";
+                    body += "<td>" + result[i]["DriverPhone"] + "</td>";
+                    body += "<td>" + result[i]["DriverIdNum"] + "</td>";
+                    body += "<td>" + result[i]["Contract_Code"] + "</td>";
+                    body += "<td>" + result[i]["Contract_Name"] + "</td>";
+                    body += "<td>" + result[i]["Material_Name"] + "</td>";
+                    body += "<td>" + result[i]["SendGroup_Name"] + "</td>";
+                    body += "<td>" + result[i]["ReceiveGroup_Name"] + "</td>";
+                    body += "<td>" + result[i]["WeightType"] + "</td>";
+                    body += "</tr>";
+                }
+                var html = tablecontent + body + "</tbody>";
+                $("#datatable-default").html(html);
+                //必须加上这段代码，否则重新刷新数据的时候会导致样式丢失
+                $('#datatable-default').dataTable();//重新调用插件
+            }
+        });
+    }
+
+</script>
+
